@@ -1,0 +1,210 @@
+Import Country,Quantity Imported,Transaction Count
+United States of America,43812155.63999999,9670
+Netherlands,22496225.23454,742
+Japan,18532252.957895055,5083
+China,14733400.887982003,2085
+Malaysia,8626958.741999999,715
+United Arab Emirates,6709017.464999999,1375
+"Hong Kong, SAR China",5406991.87721,2368
+France,4251662.995104999,2560
+Germany,2285049.57534,4920
+Singapore,1945249.182,1527
+Italy,1829013.071,1126
+Hungary,1308506.0,130
+Spain,849332.6029999999,752
+Bulgaria,613837.9,99
+India,598850.1,384
+Austria,577948.6259999999,519
+Madagascar,411325.0,60
+United Kingdom,389318.86,1224
+Tunisia,321665.0,68
+Argentina,286022.314,326
+Denmark,258283.476,482
+Belgium,230203.777437,438
+Afghanistan,167685.0,94
+Dominican Republic,156419.275,105
+Turkey,86963.56999999999,777
+Portugal,84428.48000000001,129
+Georgia,68384.01999999999,96
+Czech Republic,65404.0,408
+Poland,62241.0,254
+Kuwait,61050.89,586
+New Zealand,59707.85634699999,561
+Oman,57154.1,301
+Chile,56572.0,331
+Qatar,39639.75,702
+Norway,38660.80052,627
+"Macao, SAR China",35112.073000000004,259
+San Marino,35023.5,125
+Sweden,34311.61,226
+"Macedonia, Republic of",30001.0,23
+Venezuela (Bolivarian Republic),27005.0,31
+Ireland,24610.79,94
+Greece,22940.205,140
+Slovakia,19633.0,70
+Finland,18884.9,59
+Serbia,16737.0,99
+El Salvador,16465.268976,31
+Slovenia,16353.0,26
+Peru,16151.14,127
+Bahrain,14461.0,313
+Monaco,12985.151,203
+Philippines,5438.07,410
+Luxembourg,4811.44,28
+Romania,4453.372,88
+Kenya,2697.299,29
+Estonia,2436.31,23
+Uruguay,1710.545,41
+Kazakhstan,1657.2664,228
+Uzbekistan,1541.0,132
+Cyprus,1341.0,53
+Namibia,867.0,70
+Malta,835.79,6
+Barbados,577.2,59
+Costa Rica,561.18,143
+Lithuania,285.0,49
+Trinidad and Tobago,275.0,67
+Guernsey,219.0,18
+Croatia,173.64,12
+"Congo, (Kinshasa)",167.0,32
+Angola,102.0,41
+Iraq,100.0,56
+Uganda,84.0,22
+Malawi,76.0,9
+Latvia,50.0,24
+Morocco,43.0,157
+Bahamas,32.0,60
+Rwanda,21.0,3
+Cuba,19.194000000000006,9
+Belarus,14.0,62
+Saint Lucia,11.54,7
+Myanmar,11.0,13
+Jersey,10.0,29
+Mongolia,7.0,24
+British Virgin Islands,7.0,15
+Isle of Man,5.0,6
+Pakistan,4.0,223
+Albania,,29
+Algeria,,62
+Andorra,,44
+Anguilla,,1
+Antigua and Barbuda,,10
+Armenia,,86
+Aruba,,32
+Australia,,593
+Azerbaijan,,140
+Bangladesh,,155
+Belize,,3
+Benin,,4
+Bermuda,,16
+Bolivia,,3
+Bosnia and Herzegovina,,15
+Botswana,,4
+Brazil,,416
+Brunei Darussalam,,48
+Burkina Faso,,1
+Cambodia,,49
+Cameroon,,12
+Canada,,1401
+Cape Verde,,1
+Cayman Islands,,35
+Central African Republic,,1
+Chad,,2
+Cocos (Keeling) Islands,,4
+Colombia,,99
+Congo (Brazzaville),,17
+Côte d'Ivoire,,25
+Djibouti,,2
+Dominica,,1
+Ecuador,,25
+Egypt,,146
+Equatorial Guinea,,2
+Eritrea,,3
+Ethiopia,,11
+Faroe Islands,,6
+Fiji,,10
+French Polynesia,,26
+French Southern Territories,,2
+Gabon,,10
+Ghana,,22
+Gibraltar,,11
+Greenland,,10
+Grenada,,3
+Guadeloupe,,7
+Guam,,23
+Guatemala,,200
+Guinea,,2
+Guyana,,2
+Haiti,,5
+Holy See (Vatican City State),,6
+Honduras,,13
+Iceland,,30
+Indonesia,,371
+"Iran, Islamic Republic of",,264
+Israel,,338
+Jamaica,,11
+Jordan,,145
+Kiribati,,1
+Korea (North),,114
+Korea (South),,1226
+Kyrgyzstan,,55
+Lao PDR,,32
+Lebanon,,270
+Liberia,,2
+Libya,,25
+Liechtenstein,,10
+Maldives,,32
+Mali,,3
+Martinique,,2
+Mauritania,,5
+Mauritius,,97
+Mayotte,,2
+Mexico,,670
+Moldova,,39
+Montenegro,,22
+Mozambique,,12
+Nepal,,69
+Netherlands Antilles,,17
+New Caledonia,,17
+Nicaragua,,16
+Niger,,4
+Nigeria,,42
+Northern Mariana Islands,,8
+Palau,,6
+Panama,,129
+Papua New Guinea,,3
+Paraguay,,29
+Puerto Rico,,11
+Russian Federation,,934
+Réunion,,8
+Saint Kitts and Nevis,,14
+Saint Vincent and Grenadines,,2
+Saint-Barthélemy,,70
+Saint-Martin (French part),,2
+Samoa,,1
+Saudi Arabia,,380
+Senegal,,83
+Seychelles,,5
+Sierra Leone,,1
+South Africa,,565
+Sri Lanka,,25
+Sudan,,6
+Suriname,,15
+Swaziland,,8
+Switzerland,,2066
+Syrian Arab Republic (Syria),,4
+"Taiwan, Republic of China",,1163
+Tajikistan,,10
+"Tanzania, United Republic of",,13
+Thailand,,830
+Timor-Leste,,2
+Togo,,5
+Tokelau,,2
+Turkmenistan,,48
+Turks and Caicos Islands,,1
+Ukraine,,379
+Viet Nam,,275
+"Virgin Islands, US",,2
+Yemen,,3
+Zambia,,8
+Zimbabwe,,14
