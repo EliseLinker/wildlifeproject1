@@ -1,0 +1,94 @@
+Year,App.,Taxon,Class,Order,Family,Genus,Importer,Exporter,Origin,Importer reported quantity,Exporter reported quantity,Term,Unit,Purpose,Source
+2017,I,Chelonia mydas,Reptilia,Testudines,Cheloniidae,Chelonia,EC,CR,,,133,specimens,,S,W
+2017,I,Chelonia mydas,Reptilia,Testudines,Cheloniidae,Chelonia,NI,CR,,,40,specimens,,S,W
+2017,I,Crocodylus acutus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,IT,CO,,,231,skins,,T,D
+2017,II,Alligator mississippiensis,Reptilia,Crocodylia,Alligatoridae,Alligator,CH,MO,US,,2,leather products (small),,T,W
+2017,II,Alligator mississippiensis,Reptilia,Crocodylia,Alligatoridae,Alligator,CH,RS,US,,5,leather products (small),,T,W
+2017,II,Alligator mississippiensis,Reptilia,Crocodylia,Alligatoridae,Alligator,JP,MO,US,,2,leather products (small),,T,W
+2017,II,Alligator mississippiensis,Reptilia,Crocodylia,Alligatoridae,Alligator,MG,FR,US,1566,,skin pieces,,T,W
+2017,II,Alligator mississippiensis,Reptilia,Crocodylia,Alligatoridae,Alligator,MO,AU,US,3,,leather products (small),,T,W
+2017,II,Alligator mississippiensis,Reptilia,Crocodylia,Alligatoridae,Alligator,MO,BE,US,2,,leather products (small),,T,W
+2017,II,Alligator mississippiensis,Reptilia,Crocodylia,Alligatoridae,Alligator,MO,CH,US,6,,leather products (small),,T,C
+2017,II,Alligator mississippiensis,Reptilia,Crocodylia,Alligatoridae,Alligator,MO,CH,US,2,,leather products (small),,T,W
+2017,II,Alligator mississippiensis,Reptilia,Crocodylia,Alligatoridae,Alligator,MO,FR,US,5,,jewellery,,T,W
+2017,II,Alligator mississippiensis,Reptilia,Crocodylia,Alligatoridae,Alligator,MO,FR,US,32,,leather products (small),,T,W
+2017,II,Alligator mississippiensis,Reptilia,Crocodylia,Alligatoridae,Alligator,MO,GB,US,1,,leather products (small),,T,W
+2017,II,Alligator mississippiensis,Reptilia,Crocodylia,Alligatoridae,Alligator,MO,IT,US,3,,leather products (large),,T,W
+2017,II,Alligator mississippiensis,Reptilia,Crocodylia,Alligatoridae,Alligator,MO,IT,US,19,,leather products (small),,T,W
+2017,II,Alligator mississippiensis,Reptilia,Crocodylia,Alligatoridae,Alligator,MX,CR,,,6,leather products (small),,T,W
+2017,II,Alligator mississippiensis,Reptilia,Crocodylia,Alligatoridae,Alligator,RS,AT,US,1,,leather products (small),,T,C
+2017,II,Alligator mississippiensis,Reptilia,Crocodylia,Alligatoridae,Alligator,RS,CH,US,19,,leather products (small),,T,W
+2017,II,Alligator mississippiensis,Reptilia,Crocodylia,Alligatoridae,Alligator,RS,NL,US,1,,leather products (small),,T,W
+2017,II,Alligator mississippiensis,Reptilia,Crocodylia,Alligatoridae,Alligator,RS,US,,62,,specimens,,T,W
+2017,II,Alligator mississippiensis,Reptilia,Crocodylia,Alligatoridae,Alligator,SI,CH,US,4,,leather products (small),,T,W
+2017,II,Caiman crocodilus crocodilus,Reptilia,Crocodylia,Alligatoridae,Caiman,MO,CH,VE,2,,leather products (small),,T,W
+2017,II,Caiman crocodilus crocodilus,Reptilia,Crocodylia,Alligatoridae,Caiman,MO,IT,VE,53,,leather products (small),,T,W
+2017,II,Caiman crocodilus fuscus,Reptilia,Crocodylia,Alligatoridae,Caiman,AE,CO,,,47,leather products (small),,T,C
+2017,II,Caiman crocodilus fuscus,Reptilia,Crocodylia,Alligatoridae,Caiman,CA,CO,,,135,leather products (small),,T,C
+2017,II,Caiman crocodilus fuscus,Reptilia,Crocodylia,Alligatoridae,Caiman,CN,CO,,,324,skins,,T,C
+2017,II,Caiman crocodilus fuscus,Reptilia,Crocodylia,Alligatoridae,Caiman,ES,CO,CO,,126,leather products (small),,T,C
+2017,II,Caiman crocodilus fuscus,Reptilia,Crocodylia,Alligatoridae,Caiman,FR,CO,,,930,skins,,T,C
+2017,II,Caiman crocodilus fuscus,Reptilia,Crocodylia,Alligatoridae,Caiman,GB,CO,,,137,leather products (small),,T,C
+2017,II,Caiman crocodilus fuscus,Reptilia,Crocodylia,Alligatoridae,Caiman,IT,CO,,,1142,skins,,T,C
+2017,II,Caiman crocodilus fuscus,Reptilia,Crocodylia,Alligatoridae,Caiman,KP,CO,,,87,leather products (small),,T,C
+2017,II,Caiman crocodilus fuscus,Reptilia,Crocodylia,Alligatoridae,Caiman,KP,CO,,,4600,skins,,T,C
+2017,II,Caiman crocodilus fuscus,Reptilia,Crocodylia,Alligatoridae,Caiman,LB,CO,,,50,leather products (small),,T,C
+2017,II,Caiman crocodilus fuscus,Reptilia,Crocodylia,Alligatoridae,Caiman,MG,FR,CO,25,,skin pieces,,T,C
+2017,II,Caiman crocodilus fuscus,Reptilia,Crocodylia,Alligatoridae,Caiman,MO,IT,CO,4,,leather products (small),,T,C
+2017,II,Caiman crocodilus fuscus,Reptilia,Crocodylia,Alligatoridae,Caiman,MX,CO,,,22531,skins,,T,C
+2017,II,Caiman crocodilus fuscus,Reptilia,Crocodylia,Alligatoridae,Caiman,MX,CO,,,350,tails,,T,C
+2017,II,Caiman crocodilus fuscus,Reptilia,Crocodylia,Alligatoridae,Caiman,MX,CR,,,10,leather products (small),,T,C
+2017,II,Caiman crocodilus fuscus,Reptilia,Crocodylia,Alligatoridae,Caiman,SG,CO,,,7000,skins,,T,C
+2017,II,Caiman crocodilus fuscus,Reptilia,Crocodylia,Alligatoridae,Caiman,TH,CO,,,190,skins,,T,C
+2017,II,Caiman crocodilus fuscus,Reptilia,Crocodylia,Alligatoridae,Caiman,TR,CO,,,31,leather products (small),,T,C
+2017,II,Caiman crocodilus fuscus,Reptilia,Crocodylia,Alligatoridae,Caiman,US,CO,,,468,leather products (small),,T,C
+2017,II,Caiman crocodilus fuscus,Reptilia,Crocodylia,Alligatoridae,Caiman,US,CO,,,3515,skins,,T,C
+2017,II,Caiman crocodilus fuscus,Reptilia,Crocodylia,Alligatoridae,Caiman,XX,CO,,,17,leather products (small),,T,C
+2017,II,Caiman crocodilus yacare,Reptilia,Crocodylia,Alligatoridae,Caiman,MO,BR,XX,12,,leather products (small),,T,R
+2017,II,Caiman crocodilus yacare,Reptilia,Crocodylia,Alligatoridae,Caiman,MO,IT,BO,45,,leather products (small),,T,W
+2017,II,Boa constrictor,Reptilia,Serpentes,Boidae,Boa,US,CO,,,753,live,,T,C
+2017,II,Eunectes murinus,Reptilia,Serpentes,Boidae,Eunectes,CD,BE,,3,,live,,Z,R
+2017,II,Chamaeleo spp.,Reptilia,Sauria,Chamaeleonidae,Chamaeleo,UA,CD,,,3,live,,T,W
+2017,II,Chamaeleo dilepis,Reptilia,Sauria,Chamaeleonidae,Chamaeleo,US,CD,,,50,live,,T,W
+2017,II,Chelodina mccordi,Reptilia,Testudines,Chelidae,Chelodina,CR,DE,,3,,live,,T,C
+2017,II,Cyclagras gigas,Reptilia,Serpentes,Colubridae,Cyclagras,CR,DE,,2,,live,,T,C
+2017,II,Ptyas mucosus,Reptilia,Serpentes,Colubridae,Ptyas,AE,CO,ID,,3,leather products (small),,T,W
+2017,II,Ptyas mucosus,Reptilia,Serpentes,Colubridae,Ptyas,TR,CO,ID,,1,leather products (small),,T,W
+2017,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,BG,ZW,,1,,trophies,,H,W
+2017,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,CD,ZA,,1,,live,,Z,R
+2017,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,ES,MO,ZW,,1,leather products (small),,T,C
+2017,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,IT,ET,,,4,skins,,T,R
+2017,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,IT,MW,,,5035,skins,,T,R
+2017,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,MO,FR,ZW,5,,leather products (small),,T,R
+2017,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,MO,IT,ZW,6,,leather products (small),,T,R
+2017,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,ZW,MW,,,414,skins,,T,W
+2017,II,Python breitensteini,Reptilia,Serpentes,Pythonidae,Python,MO,BR,ID,12,,leather products (small),,T,W
+2017,II,Python reticulatus,Reptilia,Serpentes,Pythonidae,Python,GB,CO,ID,,6,leather products (small),,T,W
+2017,II,Python reticulatus,Reptilia,Serpentes,Pythonidae,Python,LB,CO,VN,,10,leather products (small),,T,C
+2017,II,Python reticulatus,Reptilia,Serpentes,Pythonidae,Python,MO,CH,VN,5,,leather products (small),,T,C
+2017,II,Python reticulatus,Reptilia,Serpentes,Pythonidae,Python,MO,FR,LA,1,,leather products (small),,T,C
+2017,II,Python reticulatus,Reptilia,Serpentes,Pythonidae,Python,MO,IT,ID,33,,leather products (small),,T,W
+2017,II,Python reticulatus,Reptilia,Serpentes,Pythonidae,Python,MO,IT,VN,6,,leather products (small),,T,C
+2017,II,Python reticulatus,Reptilia,Serpentes,Pythonidae,Python,MO,MY,VN,1,,leather products (small),,T,C
+2017,II,Python reticulatus,Reptilia,Serpentes,Pythonidae,Python,MX,CR,,,2,leather products (small),,T,C
+2017,II,Python reticulatus,Reptilia,Serpentes,Pythonidae,Python,MX,CR,,,10,leather products (small),,T,W
+2017,II,Python reticulatus,Reptilia,Serpentes,Pythonidae,Python,TR,CO,VN,,15,leather products (small),,T,C
+2017,II,Python reticulatus,Reptilia,Serpentes,Pythonidae,Python,US,CO,ID,,57,leather products (small),,T,W
+2017,II,Python reticulatus,Reptilia,Serpentes,Pythonidae,Python,US,CO,VN,,7,leather products (small),,T,C
+2017,II,Dracaena guianensis,Reptilia,Sauria,Teiidae,Dracaena,MY,PE,,,25,live,,T,F
+2017,II,Dracaena guianensis,Reptilia,Sauria,Teiidae,Dracaena,US,PE,,,100,live,,T,F
+2017,II,Salvator merianae,Reptilia,Sauria,Teiidae,Salvator,MX,CR,,,2,leather products (small),,T,C
+2017,II,Salvator merianae,Reptilia,Sauria,Teiidae,Salvator,MX,CR,,,5,leather products (small),,T,W
+2017,II,Stigmochelys pardalis,Reptilia,Testudines,Testudinidae,Stigmochelys,CN,ET,,,47,live,,T,C
+2017,II,Stigmochelys pardalis,Reptilia,Testudines,Testudinidae,Stigmochelys,TW,ET,,,100,live,,T,C
+2017,II,Cycloderma aubryi,Reptilia,Testudines,Trionychidae,Cycloderma,US,CD,,,50,live,,T,W
+2017,II,Varanus niloticus,Reptilia,Sauria,Varanidae,Varanus,MG,FR,TD,459,,skin pieces,,T,W
+2017,II,Varanus salvator,Reptilia,Sauria,Varanidae,Varanus,CR,US,,1,,live,,T,C
+2017,II,Varanus salvator,Reptilia,Sauria,Varanidae,Varanus,MO,FR,ID,1,,leather products (small),,T,W
+2017,II,Varanus salvator,Reptilia,Sauria,Varanidae,Varanus,MO,FR,MY,2,,leather products (small),,T,W
+2017,II,Varanus salvator,Reptilia,Sauria,Varanidae,Varanus,MO,GB,ID,2,,leather products (small),,T,W
+2017,II,Varanus salvator,Reptilia,Sauria,Varanidae,Varanus,MO,IT,ID,8,,leather products (small),,T,W
+2017,II,Varanus salvator,Reptilia,Sauria,Varanidae,Varanus,US,CO,ID,,8,leather products (small),,T,W
+2017,II,Varanus salvator,Reptilia,Sauria,Varanidae,Varanus,US,CR,,,21,live,,T,C
+2017,II,Varanus salvator,Reptilia,Sauria,Varanidae,Varanus,XX,CO,ID,,1,leather products (small),,T,W
+2017,III,Daboia russelii,Reptilia,Serpentes,Viperidae,Daboia,RS,IT,US,200,,specimens,,T,F
