@@ -1,67 +1,205 @@
 Import Country,Transaction Count
-United States of America,102
-"Macao, SAR China",28
-Germany,21
-Costa Rica,18
-Netherlands,17
-"Congo, (Kinshasa)",16
-Italy,13
-China,11
-Mexico,10
-Serbia,9
-Japan,8
-Belgium,7
-Canada,5
-Kenya,5
-South Africa,5
-Spain,5
-Switzerland,5
-Turkey,4
-India,4
-Bulgaria,4
-Malawi,4
-Czech Republic,4
-Thailand,4
-Slovenia,4
-France,3
-United Kingdom,3
-El Salvador,3
+United States of America,8547
+Japan,3054
+"Hong Kong, SAR China",1942
+China,1939
+Germany,1844
+France,1733
+Switzerland,1610
+Canada,1250
+United Arab Emirates,1217
+Singapore,1172
+United Kingdom,1121
+Korea (South),1105
+Italy,1082
+"Taiwan, Republic of China",880
+Russian Federation,856
+Turkey,746
+Malaysia,692
+Spain,674
+Qatar,674
+Mexico,666
+Norway,603
+Netherlands,601
+Thailand,586
+Kuwait,562
+New Zealand,549
+Austria,503
+South Africa,495
+Denmark,477
+Australia,464
+Brazil,413
+Philippines,403
+Ukraine,367
+Belgium,365
+Saudi Arabia,361
+Czech Republic,342
+Indonesia,338
+Israel,335
+Chile,323
+Argentina,321
+Bahrain,302
+Oman,293
+India,275
+"Iran, Islamic Republic of",262
+Viet Nam,255
+Lebanon,255
+"Macao, SAR China",249
+Poland,245
+Kazakhstan,226
+Sweden,222
+Pakistan,203
+Monaco,201
+Bangladesh,155
+Morocco,146
+Jordan,141
+Azerbaijan,140
+Guatemala,138
+Greece,135
+Costa Rica,131
+Uzbekistan,129
+Peru,125
+San Marino,125
+Egypt,125
+Portugal,122
+Panama,120
+Hungary,115
+Korea (North),113
+Bulgaria,97
+Serbia,94
+Ireland,89
+Armenia,85
+Romania,84
+Senegal,81
+Georgia,76
+Saint-Barthélemy,70
+Nepal,69
+Slovakia,69
+Dominican Republic,68
+Colombia,68
+Tunisia,62
+Trinidad and Tobago,60
+Belarus,58
+Finland,57
+Madagascar,56
+Barbados,55
+Kyrgyzstan,55
+Bahamas,53
+Cyprus,50
+Lithuania,49
+Iraq,48
+Turkmenistan,47
+Cambodia,47
+Andorra,44
+Namibia,40
+Mauritius,40
+Nigeria,40
+Brunei Darussalam,40
+Algeria,40
+Uruguay,39
+Moldova,36
+Angola,36
+Maldives,32
+Lao PDR,32
+"Congo, (Kinshasa)",31
+Aruba,30
+Iceland,30
+Paraguay,29
+Kenya,29
+Jersey,29
+Venezuela (Bolivarian Republic),29
+Albania,29
+Luxembourg,28
+Libya,25
+Cayman Islands,25
+French Polynesia,25
+Côte d'Ivoire,24
+Slovenia,24
+Ecuador,24
+Latvia,24
+Estonia,23
+"Macedonia, Republic of",23
+Sri Lanka,23
+Mongolia,23
+Guam,23
+Uganda,22
+Montenegro,21
+El Salvador,20
+Guernsey,18
+Congo (Brazzaville),17
+Ghana,17
+New Caledonia,17
+Netherlands Antilles,17
+Bermuda,15
+Nicaragua,15
+Suriname,15
+Afghanistan,15
+British Virgin Islands,14
+Zimbabwe,14
+Bosnia and Herzegovina,14
+Myanmar,13
+Cameroon,12
+Mozambique,12
+Croatia,12
+Honduras,12
+Gibraltar,11
+Ethiopia,11
+Tajikistan,10
+Gabon,10
+Puerto Rico,10
+Greenland,10
+Liechtenstein,10
+Cuba,9
+Jamaica,9
+Malawi,9
+Fiji,9
+Swaziland,8
+Zambia,8
+Saint Kitts and Nevis,8
+Northern Mariana Islands,7
+"Tanzania, United Republic of",7
+Saint Lucia,6
+Holy See (Vatican City State),6
+Faroe Islands,6
+Isle of Man,6
+Sudan,6
+Malta,5
+Réunion,5
+Togo,5
+Seychelles,5
+Mauritania,5
+Guadeloupe,5
+Haiti,4
+Botswana,4
+Niger,4
+Syrian Arab Republic (Syria),4
+Cocos (Keeling) Islands,4
+Benin,4
+Antigua and Barbuda,4
+Bolivia,3
+Papua New Guinea,3
 Rwanda,3
-Nicaragua,3
-Madagascar,3
-Saudi Arabia,3
-United Arab Emirates,3
-Jamaica,2
-Korea (North),2
-Panama,2
-Malaysia,2
-Viet Nam,2
-"Hong Kong, SAR China",2
-Kuwait,2
-"Taiwan, Republic of China",2
-Honduras,2
-Portugal,2
-Ukraine,2
-Singapore,2
-Lebanon,2
-Korea (South),2
-Peru,2
-Barbados,1
-Bosnia and Herzegovina,1
-Colombia,1
-Angola,1
-Dominican Republic,1
-Zimbabwe,1
-Ecuador,1
-Guatemala,1
-Montenegro,1
-Croatia,1
-Qatar,1
+Mali,3
+Yemen,3
+Eritrea,3
+Belize,3
+Guyana,2
+Liberia,2
+Guinea,2
+Chad,2
+"Virgin Islands, US",2
+French Southern Territories,2
+Saint-Martin (French part),2
+Djibouti,2
+Mayotte,2
+Timor-Leste,2
+Tokelau,2
+Equatorial Guinea,2
+Central African Republic,1
+Turks and Caicos Islands,1
+Burkina Faso,1
 Sierra Leone,1
-Congo (Brazzaville),1
-Egypt,1
-Puerto Rico,1
-Chile,1
-Zambia,1
-Australia,1
-Pakistan,1
+Dominica,1
+Grenada,1
+Martinique,1
+Kiribati,1
